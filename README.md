@@ -63,4 +63,5 @@ So far we have modelled on
 * Random Forest Regressor
 * Extra Tree Regressor
 * XGB Regressor
-In all of these models our errors have been in the range of 2,00,000 which is around 10% of the average views. We have been able to correctly predict views 90% of the time. After hyper parameter tuning, we have prevented overfitting and decreased errors by regularizing and reducing learning rate. Given that only have 10% errors, our models have performed very well on unseen data due to various factors like feature selection,correct model selection,etc. Out of all these models RandomForestRegressor is the best performer in terms of MAE. In all the features speaker_wise_avg_views is most important this implies that speakers are directly impacting the views.
+
+Out of all these machine learning models RandomForestRegressor is the best performer in terms of MAE. In all the features speaker_wise_avg_views is most important this implies that speakers are directly impacting the views.
