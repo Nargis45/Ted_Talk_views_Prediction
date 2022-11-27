@@ -27,7 +27,8 @@ The dataset contains features like:
 * transcript: Full transcript of the talk
 # Target Variable
 * views: Contains Count of views of every talk
-## Goal: The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
+## Goal: 
+* The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
 
 # Prerequisites
 * Understanding of ML algorithms
