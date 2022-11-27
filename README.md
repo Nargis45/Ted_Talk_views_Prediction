@@ -51,9 +51,9 @@ For that we have to do some feature engineering as follows:
 
 7. HyperParameter Tuning
 
-8. Evaluation Metrices of the model
+8. Modeling
 
-9. Final selection of the model
+9. Evaluation and comparision of models 
 
 10. Conclusion
 # Conclusion
