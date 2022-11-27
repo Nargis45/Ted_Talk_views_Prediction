@@ -27,11 +27,8 @@ The dataset contains features like:
 * transcript: Full transcript of the talk
 # Target Variable
 * views: Contains Count of views of every talk
-# The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
-For that we have to do some feature engineering as follows:
+## Goal: The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
 
-* Here, we have only 3 numerical columns in our dataset out of which 1 is our target variable and 2 can be used as features and rest all columns are either categorical or they contains textual data.
-* So, our main goal here is to find or generate some numerical or categorical features using these columns.
 # Prerequisites
 * Understanding of ML algorithms
 # Technologies used
