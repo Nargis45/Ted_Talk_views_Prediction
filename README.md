@@ -39,7 +39,7 @@ The dataset contains features like:
 
 2. Loading the dataset
 
-3.Data Cleaning and EDA on features
+3. Data Cleaning and EDA on features
 
 4. Feature Engineering
 
