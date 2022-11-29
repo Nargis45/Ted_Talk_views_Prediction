@@ -53,7 +53,9 @@ The dataset contains features like:
 
 9. Evaluation and comparision of models 
 
-10. #Conclusion
+10. Conclusion
+
+# Conclusion
 Started with loading the data so far we have done EDA ,feature engineering , data cleaning, target encoding and one hot encoding of categorical columns, feature selection and then model building.
 So far we have modelled on
 
