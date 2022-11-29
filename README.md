@@ -39,19 +39,19 @@ The dataset contains features like:
 
 2. Loading the dataset
 
-3. Data Cleaning
+3.Data Cleaning and EDA on features
 
-4. EDA on features
+4. Feature Engineering
 
-5. Feature selection
+5. Data Cleaning
 
-6. Fitting the regression models
+6. Feature Selection
 
-7. HyperParameter Tuning
+7. HyperParameter Tuning and Modeling
 
-8. Modeling
+8. Evaluation and comparision of models 
 
-9. Evaluation and comparision of models 
+9. Selecting the best model
 
 10. Conclusion
 
