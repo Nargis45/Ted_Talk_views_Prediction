@@ -66,6 +66,8 @@ So far we have modelled on
 * KNearestNeighbors Regressor
 * Random Forest Regressor
 * XGB Regressor
+
+
 In all of these models our errors have been in the range of 2,00,000 which is around 10% of the average views. We have been able to correctly predict views 90% of the time.
 
 After hyper parameter tuning, we have prevented overfitting and decreased errors by regularizing and reducing learning rate.
