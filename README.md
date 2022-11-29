@@ -53,15 +53,19 @@ The dataset contains features like:
 
 9. Evaluation and comparision of models 
 
-10. Conclusion
-# Conclusion
-Started with loading the data we did EDA ,feature engineering , data cleaning, target encoding and one hot encoding of categorical columns, feature selection and then model building.
-
+10. #Conclusion
+Started with loading the data so far we have done EDA ,feature engineering , data cleaning, target encoding and one hot encoding of categorical columns, feature selection and then model building.
 So far we have modelled on
 
-* Linear Regressor
+* Lasso Regressor
+* Ridge Regressor
+* KNearestNeighbors Regressor
 * Random Forest Regressor
-* Extra Tree Regressor
 * XGB Regressor
+In all of these models our errors have been in the range of 2,00,000 which is around 5% of the average views. We have been able to correctly predict views 95% of the time.
 
-Out of all these machine learning models RandomForestRegressor is the best performer in terms of MAE. In all the features speaker_wise_avg_views is most important this implies that speakers are directly impacting the views.
+After hyper parameter tuning, we have prevented overfitting and decreased errors by regularizing and reducing learning rate.
+
+Given that only have 5% errors, our models have performed very well on unseen data due to various factors like feature selection,correct model selection,etc. Out of all these models RandomForestRegressor is the best performer in terms of MAE.
+
+In all the features speaker_wise_avg_views is most important this implies that speakers are directly impacting the views.
