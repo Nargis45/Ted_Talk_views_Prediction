@@ -55,7 +55,7 @@ The dataset contains features like:
 
 9. Selecting the best model
 
-10. Conclusion
+10. **Conclusion**
 
 # Conclusion
 Started with loading the data so far we have done EDA ,feature engineering , data cleaning, target encoding and one hot encoding of categorical columns, feature selection and then model building.
@@ -76,5 +76,6 @@ Given that only have 10% errors, our models have performed very well on unseen d
 
 In all the features speaker_wise_avg_views is most important this implies that speakers are directly impacting the views.
 
+# **Certificate**
 ![92533065017469](https://user-images.githubusercontent.com/60965420/213905725-fffee8e1-a0ba-43fa-b80b-08b47cd89978.png)
 
